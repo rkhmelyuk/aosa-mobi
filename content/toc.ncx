@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+</head>
+   <docTitle><text>The Architecture of Open Source Applications</text></docTitle>
+   
+   <navMap>
+    <navPoint id='navPoint-1' playOrder='1'>
+        <navLabel><text>Introduction</text></navLabel>
+        <content src='intro.html'/>
+    </navPoint>
+    <navPoint id='navPoint-2' playOrder='2'>
+        <navLabel><text>Asterisk</text></navLabel>
+        <content src='asterisk.html'/>
+    </navPoint>
+    <navPoint id='navPoint-3' playOrder='3'>
+        <navLabel><text>Audacity</text></navLabel>
+        <content src='audacity.html'/>
+    </navPoint>
+    <navPoint id='navPoint-4' playOrder='4'>
+        <navLabel><text>The Bourne-Again Shell</text></navLabel>
+        <content src='bash.html'/>
+    </navPoint>
+    <navPoint id='navPoint-5' playOrder='5'>
+        <navLabel><text>Berkley DB</text></navLabel>
+        <content src='bdb.html'/>
+    </navPoint>
+    <navPoint id='navPoint-6' playOrder='6'>
+        <navLabel><text>CMake</text></navLabel>
+        <content src='cmake.html'/>
+    </navPoint>
+    <navPoint id='navPoint-7' playOrder='7'>
+        <navLabel><text>Eclipse</text></navLabel>
+        <content src='eclipse.html'/>
+    </navPoint>
+    <navPoint id='navPoint-8' playOrder='8'>
+        <navLabel><text>Graphite</text></navLabel>
+        <content src='graphite.html'/>
+    </navPoint>
+    <navPoint id='navPoint-9' playOrder='9'>
+        <navLabel><text>The Hadoop Distributed File System</text></navLabel>
+        <content src='hdfs.html'/>
+    </navPoint>
+    <navPoint id='navPoint-10' playOrder='10'>
+        <navLabel><text>Continuous Integration</text></navLabel>
+        <content src='integration.html'/>
+    </navPoint>
+    <navPoint id='navPoint-11' playOrder='11'>
+        <navLabel><text>Jitsi</text></navLabel>
+        <content src='jitsi.html'/>
+    </navPoint>
+    <navPoint id='navPoint-12' playOrder='12'>
+        <navLabel><text>LLVM</text></navLabel>
+        <content src='llvm.html'/>
+    </navPoint>
+    <navPoint id='navPoint-13' playOrder='13'>
+        <navLabel><text>Mercurial</text></navLabel>
+        <content src='mercurial.html'/>
+    </navPoint>
+    <navPoint id='navPoint-14' playOrder='14'>
+        <navLabel><text>The NoSQL Ecosystem</text></navLabel>
+        <content src='nosql.html'/>
+    </navPoint>
+    <navPoint id='navPoint-15' playOrder='15'>
+        <navLabel><text>Python Packaging</text></navLabel>
+        <content src='packaging.html'/>
+    </navPoint>
+    <navPoint id='navPoint-16' playOrder='16'>
+        <navLabel><text>Riak and Erlang/OTP</text></navLabel>
+        <content src='riak.html'/>
+    </navPoint>
+    <navPoint id='navPoint-17' playOrder='17'>
+        <navLabel><text>Selenium WebDriver</text></navLabel>
+        <content src='selenium.html'/>
+    </navPoint>
+    <navPoint id='navPoint-18' playOrder='18'>
+        <navLabel><text>Sendmail</text></navLabel>
+        <content src='sendmail.html'/>
+    </navPoint>
+    <navPoint id='navPoint-19' playOrder='19'>
+        <navLabel><text>SnowFlock</text></navLabel>
+        <content src='snowflock.html'/>
+    </navPoint>
+    <navPoint id='navPoint-20' playOrder='20'>
+        <navLabel><text>SocialCalc</text></navLabel>
+        <content src='socialcalc.html'/>
+    </navPoint>
+    <navPoint id='navPoint-21' playOrder='21'>
+        <navLabel><text>Telepathy</text></navLabel>
+        <content src='telepathy.html'/>
+    </navPoint>
+    <navPoint id='navPoint-22' playOrder='22'>
+        <navLabel><text>Thousand Parsec</text></navLabel>
+        <content src='thousandparsec.html'/>
+    </navPoint>
+    <navPoint id='navPoint-23' playOrder='23'>
+        <navLabel><text>Violet</text></navLabel>
+        <content src='violet.html'/>
+    </navPoint>
+    <navPoint id='navPoint-24' playOrder='24'>
+        <navLabel><text>VisTrails</text></navLabel>
+        <content src='vistrails.html'/>
+    </navPoint>
+    <navPoint id='navPoint-25' playOrder='25'>
+        <navLabel><text>VTK</text></navLabel>
+        <content src='vtk.html'/>
+    </navPoint>
+    <navPoint id='navPoint-26' playOrder='26'>
+        <navLabel><text>Battle for Wesnoth</text></navLabel>
+        <content src='wesnoth.html'/>
+    </navPoint>
+    <navPoint id='navPoint-27' playOrder='27'>
+        <navLabel><text>Bibliography</text></navLabel>
+        <content src='bibliography.html'/>
+    </navPoint>
+   </navMap>
+</ncx>
+    

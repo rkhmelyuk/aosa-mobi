@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+          <dc:title>The Architecture of Open Source Applications</dc:title>
+          <dc:language>en-us</dc:language>
+          <dc:identifier id="BookId" opf:scheme="ISBN">978-1-257-63801-7</dc:identifier>
+          <dc:creator>Amy Brown and Greg Wilson (eds.)</dc:creator>
+          <dc:description>The Architecture of Open Source Applications. Elegance, Evolution, and a Few Fearless Hacks</dc:description>
+          <dc:subject>Electronic Digital Computers -- Programming</dc:subject>
+          <dc:date>2011-07-02</dc:date>
+          <x-metadata>   
+               <output encoding="utf-8" content-type="text/x-oeb1-document"></output>
+               <EmbeddedCover>cover.jpg</EmbeddedCover>
+          </x-metadata>
+     </metadata>
+     <manifest>
+          <item id='item1' media-type='application/xhtml+xml' href='index.html'></item>
+          <item id='item2' media-type='application/xhtml+xml' href='intro.html'></item>
+          <item id='item3' media-type='application/xhtml+xml' href='asterisk.html'></item>
+          <item id='item4' media-type='application/xhtml+xml' href='audacity.html'></item>
+          <item id='item5' media-type='application/xhtml+xml' href='bash.html'></item>
+          <item id='item6' media-type='application/xhtml+xml' href='bdb.html'></item>
+          <item id='item7' media-type='application/xhtml+xml' href='cmake.html'></item>
+          <item id='item8' media-type='application/xhtml+xml' href='eclipse.html'></item>
+          <item id='item9' media-type='application/xhtml+xml' href='graphite.html'></item>
+          <item id='item10' media-type='application/xhtml+xml' href='hdfs.html'></item>
+          <item id='item11' media-type='application/xhtml+xml' href='integration.html'></item>
+          <item id='item12' media-type='application/xhtml+xml' href='jitsi.html'></item>
+          <item id='item13' media-type='application/xhtml+xml' href='llvm.html'></item>
+          <item id='item14' media-type='application/xhtml+xml' href='mercurial.html'></item>
+          <item id='item15' media-type='application/xhtml+xml' href='nosql.html'></item>
+          <item id='item16' media-type='application/xhtml+xml' href='packaging.html'></item>
+          <item id='item17' media-type='application/xhtml+xml' href='riak.html'></item>
+          <item id='item18' media-type='application/xhtml+xml' href='selenium.html'></item>
+          <item id='item19' media-type='application/xhtml+xml' href='sendmail.html'></item>
+          <item id='item20' media-type='application/xhtml+xml' href='snowflock.html'></item>
+          <item id='item21' media-type='application/xhtml+xml' href='socialcalc.html'></item>
+          <item id='item22' media-type='application/xhtml+xml' href='telepathy.html'></item>
+          <item id='item23' media-type='application/xhtml+xml' href='thousandparsec.html'></item>
+          <item id='item24' media-type='application/xhtml+xml' href='violet.html'></item>
+          <item id='item25' media-type='application/xhtml+xml' href='vistrails.html'></item>
+          <item id='item26' media-type='application/xhtml+xml' href='vtk.html'></item>
+          <item id='item27' media-type='application/xhtml+xml' href='wesnoth.html'></item>
+          <item id='item28' media-type='application/xhtml+xml' href='bibliography.html'></item>
+          <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"></item>
+     </manifest>
+     <spine toc="ncx">
+          <itemref idref='item1'/>
+          <itemref idref='item2'/>
+          <itemref idref='item3'/>
+          <itemref idref='item4'/>
+          <itemref idref='item5'/>
+          <itemref idref='item6'/>
+          <itemref idref='item7'/>
+          <itemref idref='item8'/>
+          <itemref idref='item9'/>
+          <itemref idref='item10'/>
+          <itemref idref='item11'/>
+          <itemref idref='item12'/>
+          <itemref idref='item13'/>
+          <itemref idref='item14'/>
+          <itemref idref='item15'/>
+          <itemref idref='item16'/>
+          <itemref idref='item17'/>
+          <itemref idref='item18'/>
+          <itemref idref='item19'/>
+          <itemref idref='item20'/>
+          <itemref idref='item21'/>
+          <itemref idref='item22'/>
+          <itemref idref='item23'/>
+          <itemref idref='item24'/>
+          <itemref idref='item25'/>
+          <itemref idref='item26'/>
+          <itemref idref='item27'/>
+          <itemref idref='item28'/>
+     </spine>
+     <guide>
+          <reference type="start" title="Introduction" href="intro.html"></reference>
+          <reference type="toc" title="Table of Contents" href="index.html#toc"></reference>
+     </guide>
+</package>  

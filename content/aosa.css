@@ -1,0 +1,109 @@
+body.help {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 { font-size: 22px; }
+h2 { font-size: 19px; margin: 4px 0; }
+h3 { font-size: 17px; margin: 3px 0; }
+h4 { font-size: 16px; margin: 2px 0; }
+h5 { font-size: 14px; }
+
+
+div.box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    outline-color: gray;
+    outline-style: solid;
+    outline-width: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+}
+
+p { margin: 2px 0; }
+
+div.figure {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+sup.footnote {
+    font-size: 0.8em;
+}
+
+div.footnotes {
+    border-top: solid gray 1px;
+}
+
+div.table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-align: center;
+}
+
+div.table table {
+    font-size: small;
+    margin-left: auto;
+    margin-right: auto;
+    outline-color: gray;
+    outline-style: solid;
+    outline-width: 1px;
+}
+
+
+h4.chapterauthor {
+    font-style: italic;
+    color: #333333;
+}
+
+p.boxtitle {
+    font-style: italic;
+    font-weight: bold;
+}
+
+p.pullquote {
+    font-style: italic;
+}
+
+table.bibtable td {
+    text-align: center;
+}
+
+table.tasks th {
+    vertical-align: top;
+}
+
+td {
+    vertical-align: top;
+}
+
+td.center {
+    vertical-align: top;
+    text-align: center;
+}
+
+th {
+    text-align: left;
+}
+
+th.center {
+    text-align: center;
+}
+
+span.italic {
+    font-style: italic;
+}
