@@ -1,6 +1,8 @@
 
+Official book website: http://www.aosabook.org/en/index.html
+
 build-mobi.sh makes a MOBI version of "The Architecture of Open Source Applications" book.
-MOBI version of the book can be uploaded and used in Kindle w/o conversion.
+MOBI version of the book can be uploaded and used in Kindle w/o any additional conversion.
 
 Build a book:
 
@@ -8,3 +10,4 @@ Build a book:
    http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000234621
 
 2. Execute build-mobi.sh script.
+
